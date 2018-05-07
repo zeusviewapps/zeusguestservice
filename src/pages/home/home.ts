@@ -16,7 +16,6 @@ export class HomePage {
 
   gotozeuswebcheckin() {
       //const browser = this.iab.create('http://169.46.167.242:8095/default.aspx?zic=ZEUSTEST', '_self', { location: 'no' });
-
        this.iab.create(this.urlguestservice, '_self', { location: 'no' });
 
   }

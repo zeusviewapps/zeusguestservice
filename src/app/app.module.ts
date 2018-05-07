@@ -1,5 +1,6 @@
 //proyecto github:zeusviewapps
-
+//ionic cordova platform add browser
+//ionic cordova run browser : para correr en el browse coordova.
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
